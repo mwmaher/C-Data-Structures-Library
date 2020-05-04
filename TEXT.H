@@ -1,8 +1,6 @@
 /* Text.H
 
    By Michael W. Maher
-   1500 W. North St. Apt C15
-   Jackson, MI 49202
 
    Ver 1.0 10/7/92
 
