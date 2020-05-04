@@ -1,8 +1,6 @@
 /* string2.C
 
    By Michael W. Maher
-   1500 W. North St. Apt C15
-   Jackson, MI 49202
 
    Ver 1.0 12/21/92
 
