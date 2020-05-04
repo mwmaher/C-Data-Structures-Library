@@ -1,8 +1,6 @@
 /* str2test.c
 
    By Michael W. Maher
-   6824 Folks Rd.
-   Horton, MI 49246
 
    Ver 1.0 12/21/92
    Ver 1.5 09/19/94
