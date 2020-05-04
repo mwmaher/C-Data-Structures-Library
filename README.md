@@ -7,7 +7,7 @@ A C library of general purpose data structures:
 - Linked lists (single linked and doubly linked)
 
 
-all code is ANSI standard C and originally developed under Microsoft C version 5.1.  All routines have been tested and debugged as well.  Source code and headers are fully documented.  I consider the programming style to be very readable and easy to follow (lots of white space).
+All code is ANSI standard C and originally developed under Microsoft C version 5.1.  All routines have been tested and debugged as well.  Source code and headers are fully documented.  I consider the programming style to be very readable and easy to follow (lots of white space).
 	
 The package that you are interested in could be described as a general-purpose set of programming tools that support three conceptual structures: sets, stacks, and queues.  I have worked up an abstract data type for linked lists but because I never needed it I never finished the code (I could finish it in about a day).  
 
